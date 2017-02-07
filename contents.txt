@@ -1,0 +1,371 @@
+│   ├── Adaptive\ behavior\ in\ young\ children\ of\ emotionally\ disturbed\ women.pdf
+│   ├── Author\ index\ of\ volume\ I.pdf
+│   ├── Contents\ of\ volume\ I.pdf
+│   ├── Editorial.pdf
+│   ├── Life\ structure\ decisions:\ Factors\ related\ to\ career-marriage\ priorities\ in\ college\ youth.pdf
+│   ├── List\ of\ Guest\ Reviewers\ for\ Volume\ 1.pdf
+│   ├── Memory\ strategies\ in\ children\ with\ learning\ disabilities.pdf
+│   ├── Nutritional\ misinformation\ of\ children:\ A\ developmental\ and\ experimental\ analysis\ of\ the\ effects\ of\ televised\ food\ commercials.pdf
+│   ├── Social\ interactions\ among\ teachers,\ handicapped\ children,\ and\ nonhandicapped\ children\ in\ a\ mainstreamed\ preschool.pdf
+│   └── The\ pattern\ of\ exceptionality\ across\ domains\ in\ learning\ disabled\ children.pdf
+│   ├── Applied\ developmental\ psychology\ as\ an\ implementation\ of\ a\ life-span\ view\ of\ human\ development.pdf
+│   ├── Author\ index\ to\ volume\ 10.pdf
+│   ├── Caregivers\ in\ day-care\ centers:\ Does\ training\ matter?.pdf
+│   ├── Children's\ event\ knowledge\ of\ cancer\ treatment.pdf
+│   ├── Cognitive,\ communication,\ and\ social\ differences\ between\ autistic\ boys\ and\ girls.pdf
+│   ├── Contents\ to\ volume\ 10.pdf
+│   ├── Factors\ mediating\ the\ relationships\ between\ preschool\ children's\ play\ patterns\ and\ peer\ ratings:\ Verbal\ communication\ styles.pdf
+│   ├── Guest\ editors\ for\ volume\ 10.pdf
+│   ├── Individual\ differences\ in\ preschool\ entry\ behavior.pdf
+│   ├── Social\ competence\ in\ childhood:\ Toward\ a\ developmental,\ socioculturally\ relativistic\ paradigm.pdf
+│   ├── Stressful\ experiences,\ temperament,\ and\ social\ support:\ Impact\ on\ children's\ behavior\ symptoms.pdf
+│   └── The\ Freudian\ metaphor:\ Toward\ paradigm\ change\ in\ psychoanalysis.:\ Spence,\ Donald\ P.\ New\ York:\ W.W.\ Norton,\ 1987.\ Reviewed\ by\ Lawrence\ A.\ Pervin,\ Rutgers\ University.pdf
+│   ├── A\ longitudinal\ analysis\ of\ the\ development\ of\ synchrony\ in\ mutual\ gaze\ in\ mother-child\ dyads.pdf
+│   ├── Author\ index\ to\ volume\ 11.pdf
+│   ├── Author's\ errata.pdf
+│   ├── Behavioral\ subtypes\ of\ low-achieving\ children:\ Differences\ in\ school\ social\ adjustment.pdf
+│   ├── Category\ production\ in\ response\ to\ script\ and\ category\ cues\ by\ kindergarten\ and\ second-grade\ children.pdf
+│   ├── Contents\ of\ volume\ 11.pdf
+│   ├── Describing\ family\ interaction\ patterns\ in\ early\ childhood:\ A\ social\ events\ perspective.pdf
+│   ├── Development\ of\ visual\ cognition:\ Transfer\ effects\ of\ the\ Agam\ program.pdf
+│   ├── Guest\ editors\ for\ volume\ 11.pdf
+│   ├── Health\ services\ and\ Head\ Start:\ A\ forgotten\ formula.pdf
+│   └── To\ be\ or\ not\ to\ be?:\ Accreditation,\ credentialing,\ and\ applied\ developmental\ psychology.pdf
+│   ├── Attribution\ of\ control\ and\ ego\ development:\ Marker\ variables\ for\ a\ model\ of\ foster\ care\ risk.pdf
+│   ├── Author\ index\ to\ volume\ 12.pdf
+│   ├── Contents\ of\ volume\ 12.pdf
+│   ├── Guest\ editors\ for\ volume\ 12.pdf
+│   ├── Income\ level,\ gender,\ ethnicity,\ and\ household\ composition\ as\ predictors\ of\ children's\ peer\ companionship\ outside\ of\ school.pdf
+│   ├── Mothers'\ beliefs\ about\ listening:\ Implications\ for\ children's\ comprehension\ and\ conceptions\ of\ listening.pdf
+│   ├── Promoting\ morality\ in\ the\ schools:\ Kohlberg's\ just\ school\ approach:\ .pdf
+│   ├── Teachers'\ impressions\ of\ children\ varying\ in\ pragmatic\ skills.pdf
+│   └── The\ screening\ potential\ of\ a\ taxonomic\ information\ task\ for\ the\ detection\ of\ learning\ disabled\ and\ mildly\ retarded\ children.pdf
+│   ├── A\ longitudinal\ study\ of\ the\ influence\ of\ parents\ and\ friends\ on\ children's\ initiation\ of\ smoking.pdf
+│   ├── Author\ index\ to\ volume\ 13.pdf
+│   ├── Contents\ index\ to\ volume\ 13.pdf
+│   ├── Guest\ editors\ for\ volume\ 13.pdf
+│   ├── Infant\ colic:\ A\ transient\ condition\ with\ no\ apparent\ effects.pdf
+│   ├── Relations\ between\ first\ grade\ stress,\ temperament,\ and\ behavior\ problems.pdf
+│   ├── The\ challenge\ of\ art\ to\ psychology:\ .pdf
+│   ├── The\ emergence\ of\ a\ discipline:\ Rochester\ symposium\ on\ developmental\ psychopathology:\ .pdf
+│   └── The\ house\ of\ make-believe:\ Play\ and\ the\ developing\ imagination:\ .pdf
+│   ├── Author\ index\ to\ volume\ 14.pdf
+│   ├── Contents\ index\ to\ volume\ 14.pdf
+│   ├── Coping\ with\ anger-provoking\ situations:\ Young\ adolescents'\ theories\ of\ strategy\ use\ and\ effectiveness.pdf
+│   ├── Development\ of\ the\ self-system:\ How\ children\ perceive\ their\ own\ and\ others'\ ideas\ about\ themselves.pdf
+│   ├── Guest\ editors\ for\ volume\ 14.pdf
+│   ├── Locating\ children's\ mathematical\ competence:\ Application\ of\ the\ developmental\ niche.pdf
+│   ├── Mother\ parity\ as\ a\ main\ and\ moderating\ influence\ on\ early\ mother-infant\ interaction.pdf
+│   ├── Promoting\ children's\ social\ growth\ in\ the\ schools:\ An\ intervention\ study.pdf
+│   ├── Siblings'\ adjustment\ in\ middle\ childhood:\ Links\ with\ mother-child\ relationships.pdf
+│   └── The\ relation\ between\ fifth\ and\ sixth\ graders'\ peer-rated\ classroom\ social\ status\ and\ their\ perceptions\ of\ family\ and\ neighborhood\ factors.pdf
+│   ├── Author\ index\ to\ volume\ 15.pdf
+│   ├── Contents\ index\ to\ volume\ 15.pdf
+│   ├── Fostering\ geographic\ literacy\ from\ early\ childhood:\ The\ contributions\ of\ interdisciplinary\ research.pdf
+│   ├── Guest\ editors\ for\ volume\ 15.pdf
+│   ├── Parents,\ infants,\ and\ day-care\ teachers:\ Interrelations\ and\ implications\ for\ better\ child\ care.pdf
+│   ├── Supply\ and\ demand\ in\ early\ childhood\ services.pdf
+│   ├── Symbolic\ functioning\ in\ preschool\ children.pdf
+│   ├── The\ challenge\ of\ incorporating\ research\ on\ play\ into\ the\ practice\ of\ preschool\ education.pdf
+│   ├── The\ preschool\ child:\ Recent\ research\ and\ its\ implications\ for\ early\ childhood\ practice\ and\ policy.pdf
+│   ├── Understanding\ others\ and\ the\ social\ world:\ Current\ issues\ in\ developmental\ research\ and\ their\ relation\ to\ preschool\ experiences\ and\ practice.pdf
+│   └── Young\ children's\ understanding\ of\ the\ mind:\ Imagery,\ introspection,\ and\ some\ implications.pdf
+│   ├── An\ experiment\ promoting\ interdisciplinary\ applied\ human\ development:\ The\ University\ of\ Pittsburgh\ model.pdf
+│   ├── Author\ index\ to\ volume\ 16.pdf
+│   ├── Contents\ index\ to\ volume\ 16.pdf
+│   ├── Developmental\ and\ situational\ differences\ in\ coping\ among\ children\ and\ adolescents\ with\ diabetes.pdf
+│   ├── Guest\ editors\ for\ volume\ 16.pdf
+│   ├── Loneliness\ and\ stable\ friendship\ in\ rejected\ and\ nonrejected\ preschoolers.pdf
+│   ├── Maternal\ antecedents\ of\ delay\ ability\ in\ young\ children.pdf
+│   ├── Planning\ processes\ in\ preschool\ children.pdf
+│   ├── Preventive\ intervention\ with\ adolescents\ and\ divorced\ mothers:\ A\ conceptual\ framework\ for\ program\ design\ and\ evaluation.pdf
+│   ├── The\ force\ of\ beliefs:\ How\ the\ parental\ values\ of\ the\ Nso\ of\ Northwest\ Cameroon\ shape\ children's\ progress\ toward\ adult\ models.pdf
+│   └── The\ place\ of\ advice:\ Japanese\ parents'\ sources\ of\ information\ about\ childrearing\ and\ child\ health.pdf
+│   ├── A\ school-based\ intervention\ to\ reduce\ aggressive\ behavior\ in\ maladjusted\ adolescents.pdf
+│   ├── Associations\ between\ nonparental\ care\ experience\ and\ preschooler's\ emotion\ regulation\ in\ the\ presence\ of\ the\ mother.pdf
+│   ├── Author\ index\ to\ volume\ 17.pdf
+│   ├── Behavioral\ competition\ in\ a\ case\ of\ Rett\ syndrome.pdf
+│   ├── Contents\ index\ to\ volume\ 17.pdf
+│   ├── Development\ of\ consensus\ about\ child\ oppositional\ behavior:\ Increased\ convergence\ with\ entry\ into\ school.pdf
+│   ├── Development\ of\ planning\ and\ its\ relation\ to\ other\ cognitive\ processes.pdf
+│   ├── Effects\ of\ social\ setting\ on\ the\ friendship\ formation\ of\ young\ children\ differing\ in\ developmental\ status.pdf
+│   ├── Guest\ editors\ for\ volume\ 16.pdf
+│   ├── How\ infant\ appearance\ informs:\ Child\ care\ providers'\ responses\ to\ babies\ varying\ in\ appearance\ of\ age\ and\ attractiveness.pdf
+│   └── Predictors\ of\ children's\ entertainment\ television\ viewing:\ Why\ are\ they\ tuning\ in?.pdf
+│   ├── Associations\ between\ the\ school-related\ beliefs\ of\ Mexican-American\ and\ Anglo-American\ mothers\ and\ children.pdf
+│   ├── Characteristics\ that\ help\ mothers\ maintain\ their\ infants'\ focus\ of\ attention.pdf
+│   ├── Contents\ index\ to\ volume\ 18\ 1997.pdf
+│   ├── Effects\ of\ documentary\ and\ fictional\ television\ formats\ on\ children's\ acquisition\ of\ schemata\ for\ unfamiliar\ occupations.pdf
+│   ├── Gender\ and\ developmental\ patterns\ of\ affect,\ belief,\ and\ behavior\ in\ simulated\ injury\ events.pdf
+│   ├── Guest\ editor's\ introduction:\ Japanese\ developmental\ psychology\ in\ the\ 1990s.pdf
+│   ├── Guest\ editors'\ commentary:\ Japanese\ socialization\ research\ in\ review.pdf
+│   ├── How\ do\ Japanese\ mothers\ treat\ children's\ negativism.pdf
+│   ├── Peer\ group\ play\ and\ co-childrearing\ in\ Japan:\ A\ historical\ ethnography\ of\ a\ fishing\ community.pdf
+│   ├── The\ effects\ of\ an\ improved\ residential\ nursery\ on\ the\ development\ of\ young\ Japanese\ children.pdf
+│   ├── The\ influence\ of\ cultural\ expectations\ on\ mother-child\ relationships\ in\ Japan.pdf
+│   ├── The\ influence\ of\ peers\ on\ children's\ judgments\ about\ engaging\ in\ behaviors\ that\ threaten\ their\ safety.pdf
+│   └── The\ middle\ class\ Japanese\ father:\ A\ survey\ of\ parents\ of\ preschoolers.pdf
+│   ├── <?xml\ version='1.0'\ encoding='utf-8'?>.pdf
+│   ├── A\ comparison\ of\ suggestibility\ in\ 4-year-old\ girls\ in\ response\ to\ parental\ or\ stranger\ misinformation.pdf
+│   ├── Author\ Index.pdf
+│   ├── Developmental\ differences\ at\ play:\ Children's\ selective\ attention\ and\ performance\ in\ video\ games.pdf
+│   ├── Factors\ related\ to\ patterns\ of\ information\ exchange\ between\ adoptive\ parents\ and\ children\ in\ mediated\ adoptions.pdf
+│   ├── Improving\ 5-year-olds'\ narrative\ recall\ and\ comprehension.pdf
+│   ├── Individual\ differences\ in\ homeless\ preschoolers'\ social\ behavior.pdf
+│   ├── Journal\ of\ Applied\ Development\ Psychology.\ Contents\ index\ to\ volume\ 19,\ 1998.pdf
+│   ├── Patterns\ of\ parental\ socialization\ of\ the\ preventive\ health\ behavior\ of\ young\ Mexican\ origin\ children.pdf
+│   ├── Peer\ collaboration\ and\ children's\ representation\ of\ the\ horizontal\ surface\ of\ liquid.pdf
+│   └── Toddlers'\ and\ mothers'\ behaviors\ in\ an\ injury-risk\ situation:\ Implications\ for\ sex\ differences\ in\ childhood\ injuries.pdf
+│   ├── Author\ index\ to\ volume\ 2.pdf
+│   ├── Case\ studies\ of\ cognitive\ precocity:\ The\ role\ of\ exogenous\ and\ endogenous\ stimulation\ in\ early\ mental\ development.pdf
+│   ├── Coloring-book-type\ experiences\ and\ children's\ divergent\ pictorial\ production.pdf
+│   ├── Contents\ of\ volume\ 2.pdf
+│   ├── Intellectual\ development\ and\ its\ relationship\ to\ maturation\ during\ the\ college\ years.pdf
+│   ├── List\ of\ guest\ editors\ for\ volume\ 2.pdf
+│   ├── Role-taking\ skills\ in\ intellectually-gifted\ third-grade\ children.pdf
+│   └── The\ indirect\ impact\ of\ child-oriented\ advertisements:\ On\ mother-child\ interactions.pdf
+│   ├── Children's\ Memory\ and\ Source\ Monitoring\ of\ Real-Life\ and\ Televised\ Events.pdf
+│   ├── Coping\ Strategies\ in\ Adolescents.pdf
+│   ├── Developmental\ Changes\ in\ Children's\ Ethnic\ Preferences\ and\ Social\ Cognitions.pdf
+│   ├── Developmental\ Differences\ in\ Beliefs\ About\ How\ Alcohol\ and\ Cocaine\ Affect\ Behavior.pdf
+│   ├── Gender\ Differences\ in\ the\ Relationship\ of\ Language\ Development\ to\ Disruptive\ Behavior\ and\ Peer\ Relationships\ in\ Preschoolers.pdf
+│   ├── Index.pdf
+│   ├── Interracial\ Friendships,\ Multicultural\ Sensitivity,\ and\ Social\ Competence:\ How\ Are\ They\ Related?.pdf
+│   ├── The\ DSM\ as\ a\ Second\ Language\ for\ the\ School\ Psychologist:\ A\ Guide\ to\ Translation:\ House,\ Alvin\ E.\ .pdf
+│   └── The\ Effect\ of\ Early\ Music\ Training\ on\ Child\ Cognitive\ Development.pdf
+│   ├── Parenting\ and\ Children's\ Intrinsic\ Motivation\ in\ Age\ Group\ Swimming.pdf
+│   ├── Some\ Developmental\ Implications\ of\ Structural\ Aspects\ of\ Preschoolers'\ Relations\ with\ Classmates.pdf
+│   ├── Television\ Viewing\ and\ Attentional\ Abilities\ in\ Fourth\ and\ Fifth\ Grade\ Children.pdf
+│   ├── The\ Effects\ of\ Children's\ Goals\ for\ Learning\ on\ Video\ Game\ Performance.pdf
+│   └── Toddlers\ from\ Low-Income\ Families\ Have\ Below\ Normal\ Mental,\ Motor,\ and\ Behavior\ Scores\ on\ the\ Revised\ Bayley\ Scales.pdf
+│   ├── Announcement\ of\ new\ editor.pdf
+│   ├── Author\ Index.pdf
+│   ├── Between-\ or\ within-culture\ variation?:\ Culture\ group\ as\ a\ moderator\ of\ the\ relations\ between\ individual\ differences\ and\ resource\ allocation\ preferences.pdf
+│   ├── Children's\ comprehension\ of\ visual\ formal\ features\ in\ television\ programs.pdf
+│   ├── Editor's\ message:\ An\ appreciation\ to\ Irving\ E.\ Sigel.pdf
+│   ├── Parents\ as\ moderators\ of\ psychological\ and\ physiological\ correlates\ of\ inner-city\ children's\ exposure\ to\ violence.pdf
+│   └── Teaching\ oddity\ and\ insertion\ to\ Head\ Start\ children:\ An\ economical\ cognitive\ intervention.pdf
+│   ├── American\ and\ British\ college\ students'\ epistemological\ beliefs\ about\ research\ on\ psychological\ and\ biological\ development.pdf
+│   ├── Author\ Index.pdf
+│   ├── Editorial\ Announcement.pdf
+│   ├── Editorial\ Board.pdf
+│   ├── Identifying\ psychological\ problems\ in\ young\ children:\ How\ do\ mothers\ compare\ with\ child\ psychiatrists?.pdf
+│   ├── List\ of\ Guest\ Editors.pdf
+│   ├── Newborn\ temperament\ and\ Sudden\ Infant\ Death\ Syndrome:\ A\ comparison\ of\ victims\ and\ their\ cotwins.pdf
+│   └── The\ effects\ of\ interpersonal\ relationship\ and\ character\ gender\ on\ adolescents'\ resolutions\ of\ moral\ dilemmas.pdf
+│   ├── Author\ Index.pdf
+│   ├── Contents\ Index\ to\ Volume\ 24,\ 2003.pdf
+│   ├── Editorial\ Board.pdf
+│   ├── Fostering\ young\ children's\ representation,\ planning,\ and\ reflection:\ A\ focus\ in\ three\ current\ early\ childhood\ models.pdf
+│   ├── Gender\ differences\ in\ preadolescent\ children's\ online\ interactions:\ Symbolic\ modes\ of\ self-presentation\ and\ self-expression.pdf
+│   ├── Improving\ adolescents'\ standardized\ test\ performance:\ An\ intervention\ to\ reduce\ the\ effects\ of\ stereotype\ threat.pdf
+│   ├── Investigating\ and\ facilitating\ children's\ graphic,\ geographic,\ and\ spatial\ development:\ An\ illustration\ of\ Rodney\ R.\ Cocking's\ legacy.pdf
+│   ├── One\ person\ made\ a\ difference:\ The\ legacy\ of\ Rodney\ R.\ Cocking.pdf
+│   ├── Online\ discourse\ in\ a\ teen\ chatroom:\ New\ codes\ and\ new\ modes\ of\ coherence\ in\ a\ visual\ medium.pdf
+│   ├── Rod\ Cocking's\ legacy:\ The\ development\ of\ psychological\ distancing.pdf
+│   └── The\ Cornell\ Institute\ for\ Research\ on\ Children:\ A\ vision\ of\ integrated\ developmental\ science.pdf
+│   ├── Adolescence,\ race,\ and\ ethnicity\ on\ the\ Internet:\ A\ comparison\ of\ discourse\ in\ monitored\ vs.\ unmonitored\ chat\ rooms.pdf
+│   ├── Adolescent\ Internet\ use:\ What\ we\ expect,\ what\ teens\ report.pdf
+│   ├── Author\ Index.pdf
+│   ├── Constructing\ sexuality\ and\ identity\ in\ an\ online\ teen\ chat\ room.pdf
+│   ├── Contents\ Index\ to\ Volume\ 25,\ 2004.pdf
+│   ├── Developmental\ considerations\ for\ determining\ appropriate\ Internet\ use\ guidelines\ for\ children\ and\ adolescents.pdf
+│   ├── Editorial\ Board.pdf
+│   ├── Electronic\ media\ and\ human\ development:\ The\ legacy\ of\ Rodney\ R.\ Cocking.pdf
+│   ├── Heroic\ DVD\ portrayals:\ What\ US\ and\ Taiwanese\ adolescents\ admire\ and\ understand.pdf
+│   ├── Inadvertent\ exposure\ to\ pornography\ on\ the\ Internet:\ Implications\ of\ peer-to-peer\ file-sharing\ networks\ for\ child\ development\ and\ families.pdf
+│   ├── The\ impact\ of\ educational\ television\ on\ young\ children's\ reading\ in\ the\ context\ of\ family\ stress.pdf
+│   ├── The\ search\ for\ peer\ advice\ in\ cyberspace:\ An\ examination\ of\ online\ teen\ bulletin\ boards\ about\ health\ and\ sexuality.pdf
+│   └── Understanding\ media\ development:\ A\ framework\ and\ case\ study.pdf
+│   ├── Author\ Index.pdf
+│   ├── Children's\ perceptions\ of\ intergroup\ and\ intragroup\ similarity\ and\ the\ role\ of\ social\ experience.pdf
+│   ├── Contents\ Index\ to\ Volume\ 26,\ 2005.pdf
+│   ├── Editorial\ Board.pdf
+│   ├── Empathy,\ group\ norms\ and\ children's\ ethnic\ attitudes.pdf
+│   ├── How\ integrative\ approaches\ to\ intergroup\ attitudes\ advance\ the\ field.pdf
+│   ├── Keeping\ our\ eyes\ on\ the\ prize:\ Beyond\ Brown\ v.\ Board\ of\ Education.pdf
+│   ├── List\ of\ Guest\ Editors.pdf
+│   ├── Messages\ about\ the\ uniqueness\ and\ similarities\ of\ people:\ Impact\ on\ U.S.\ Black\ and\ Latino\ youth.pdf
+│   ├── Preadolescents'\ understanding\ and\ reasoning\ about\ asylum\ seeker\ peers\ and\ friendships.pdf
+│   └── Stereotypes\ and\ beliefs\ about\ different\ ethnic\ groups\ in\ Spain.\ A\ study\ with\ Spanish\ and\ Latin\ American\ children\ living\ in\ Madrid.pdf
+│   ├── Applied\ developmental\ psychology\ in\ Japan:\ From\ unique\ to\ universal.pdf
+│   ├── Corporal\ punishment\ and\ child\ adjustment.pdf
+│   ├── Cumulative\ psychosocial\ and\ medical\ risk\ as\ predictors\ of\ early\ infant\ development\ and\ parenting\ stress\ in\ an\ African-American\ preterm\ sample.pdf
+│   ├── Editorial\ Board.pdf
+│   ├── Effects\ of\ antiparasitic\ treatment\ on\ dynamically\ and\ statically\ tested\ cognitive\ skills\ over\ time.pdf
+│   ├── Factors\ influencing\ young\ children's\ risk\ of\ unintentional\ injury:\ Parenting\ style\ and\ strategies\ for\ teaching\ about\ home\ safety.pdf
+│   ├── List\ of\ Reviewers.pdf
+│   ├── Mother\ and\ father\ language\ input\ to\ young\ children:\ Contributions\ to\ later\ language\ development.pdf
+│   └── Parent\ influences\ on\ early\ childhood\ internalizing\ difficulties.pdf
+│   ├── Attachment\ and\ cognitive\ skills:\ An\ investigation\ of\ mediating\ mechanisms.pdf
+│   ├── Developmental\ psychology\ meets\ the\ Mommy\ Wars.pdf
+│   ├── Early\ childhood\ anxious\ solitude\ and\ subsequent\ peer\ relationships:\ Maternal\ and\ cognitive\ moderators.pdf
+│   ├── Editorial\ Board.pdf
+│   ├── Finding\ treasure:\ Data\ sharing\ and\ secondary\ analysis\ in\ developmental\ science.pdf
+│   ├── Forecasting\ friendship:\ How\ marital\ quality,\ maternal\ mood,\ and\ attachment\ security\ are\ linked\ to\ children's\ peer\ relationships.pdf
+│   ├── Home\ improvements:\ Within-family\ associations\ between\ income\ and\ the\ quality\ of\ children's\ home\ environments.pdf
+│   ├── Losses\ and\ gains\ as\ .pdf
+│   ├── Night\ waking\ in\ 6-month-old\ infants\ and\ maternal\ depressive\ symptoms.pdf
+│   ├── Parental\ affect\ and\ childrearing\ beliefs\ uniquely\ predict\ mothers'\ and\ fathers'\ ratings\ of\ children's\ behavior\ problems.pdf
+│   ├── Predicting\ the\ early\ developmental\ course\ of\ symptoms\ of\ attention\ deficit\ hyperactivity\ disorder.pdf
+│   └── Quality\ child\ care\ supports\ the\ achievement\ of\ low-income\ children:\ Direct\ and\ indirect\ pathways\ through\ caregiving\ and\ the\ home\ environment.pdf
+│   ├── Online\ and\ offline\ social\ networks:\ Use\ of\ social\ networking\ sites\ by\ emerging\ adults.pdf
+│   ├── Self-presentation\ and\ gender\ on\ MySpace.pdf
+│   ├── Social\ capital,\ self-esteem,\ and\ use\ of\ online\ social\ network\ sites:\ A\ longitudinal\ analysis.pdf
+│   ├── The\ association\ of\ parenting\ style\ and\ child\ age\ with\ parental\ limit\ setting\ and\ adolescent\ MySpace\ behavior.pdf
+│   ├── Transitions\ at\ JADP.pdf
+│   ├── Useful\ resources,\ important\ messages:\ The\ explosion\ of\ parenting\ books\ on\ adolescents\ and\ social\ networking\ sites.pdf
+│   └── Virtual\ worlds\ in\ development:\ Implications\ of\ social\ networking\ sites.pdf
+│   ├── A\ test\ of\ a\ method\ for\ quantifying\ amount,\ complexity,\ and\ arrangement\ of\ play\ resources\ in\ the\ preschool\ classroom.pdf
+│   ├── Adolescent\ autonomy\ and\ minors'\ legal\ rights:\ Contraception\ and\ abortion.pdf
+│   ├── Author\ index\ to\ volume\ 3.pdf
+│   ├── Causal\ explanations\ for\ school\ performance:\ Contrasts\ between\ mothers\ and\ children.pdf
+│   ├── Children's\ beliefs\ about\ adoption:\ A\ developmental\ study.pdf
+│   ├── Contents\ of\ volume\ 3.pdf
+│   ├── Effects\ of\ listener\ feedback\ on\ the\ messages\ of\ kindergarten\ children\ in\ a\ referential\ communication\ task.pdf
+│   ├── Erratum.pdf
+│   ├── Guest\ editors\ for\ volume\ 3.pdf
+│   ├── Microcomputers\ in\ schools:\ Impact\ on\ the\ social\ life\ of\ elementary\ classrooms.pdf
+│   ├── Paternal\ correlates\ of\ adolescents'\ running\ away\ behaviors:\ Implications\ for\ adolescent\ development\ and\ considerations\ for\ intervention\ and\ treatment\ of\ adolescent\ runaways.pdf
+│   ├── Perceptual\ speed\ and\ short\ term\ retention\ of\ visual\ stimuli\ in\ preschool\ children.pdf
+│   └── The\ relationship\ of\ three\ measures\ of\ childhood\ depression\ to\ academic\ underachievement.pdf
+│   ├── Adjustment\ among\ youth\ in\ military\ families:\ The\ protective\ roles\ of\ effortful\ control\ and\ maternal\ social\ support.pdf
+│   ├── Adolescent\ boys'\ intentions\ of\ seeking\ help\ from\ male\ friends\ and\ female\ friends.pdf
+│   ├── Editorial\ Board.pdf
+│   ├── Effects\ of\ maternal\ childhood\ aggression\ and\ social\ withdrawal\ on\ maternal\ request\ strategies\ and\ child\ compliance\ and\ noncompliance.pdf
+│   ├── Eyewitness\ testimony\ for\ a\ simulated\ juvenile\ crime\ by\ male\ and\ female\ criminals\ with\ consistent\ or\ inconsistent\ gender-role\ characteristics.pdf
+│   ├── Pathways\ to\ life\ success:\ A\ conceptual\ model\ of\ financial\ well-being\ for\ young\ adults.pdf
+│   ├── Physiological\ profiles\ during\ delay\ of\ gratification:\ Associations\ with\ emotionality,\ self-regulation,\ and\ adjustment\ problems.pdf
+│   ├── Preschoolers'\ person\ description\ and\ identification\ accuracy:\ A\ comparison\ of\ the\ simultaneous\ and\ elimination\ lineup\ procedures.pdf
+│   ├── Suggestibility\ under\ pressure:\ Theory\ of\ mind,\ executive\ function,\ and\ suggestibility\ in\ preschoolers.pdf
+│   ├── The\ dark\ side.pdf
+│   └── The\ formative\ role\ of\ home\ literacy\ experiences\ across\ the\ first\ three\ years\ of\ life\ in\ children\ from\ low-income\ families.pdf
+│   ├── An\ ecological\ perspective\ on\ cumulative\ school\ and\ neighborhood\ risk\ factors\ related\ to\ achievement.pdf
+│   ├── Differences\ in\ developmental\ experiences\ for\ commonly\ used\ categories\ of\ organized\ youth\ activities.pdf
+│   ├── Editorial\ Board.pdf
+│   ├── Joint\ contributions\ of\ peer\ acceptance\ and\ peer\ academic\ reputation\ to\ achievement\ in\ academically\ at-risk\ children:\ Mediating\ processes.pdf
+│   ├── Origins\ of\ mothers'\ and\ fathers'\ beliefs\ about\ infant\ crying.pdf
+│   ├── The\ effects\ of\ verbal\ labels\ and\ vocabulary\ skill\ on\ memory\ and\ suggestibility.pdf
+│   ├── Training\ the\ preschool\ scientist-in-waiting.pdf
+│   ├── Uneven\ profiles:\ Language\ minority\ learners'\ word\ reading,\ vocabulary,\ and\ reading\ comprehension\ skills.pdf
+│   └── Unwanted\ online\ sexual\ solicitation\ and\ risky\ sexual\ online\ behavior\ across\ the\ lifespan.pdf
+│   ├── Early\ adolescent\ health\ risk\ behaviors,\ conflict\ resolution\ strategies,\ and\ school\ climate.pdf
+│   ├── Editorial\ Board.pdf
+│   ├── Influence\ of\ discrimination\ awareness\ on\ the\ occupational\ interests\ of\ African\ American\ children.pdf
+│   ├── Measurement\ of\ post-war\ coping\ and\ stress\ responses:\ A\ study\ of\ Bosnian\ adolescents.pdf
+│   ├── Parental\ involvement,\ child\ temperament,\ and\ parents'\ work\ hours:\ Differential\ relations\ for\ mothers\ and\ fathers.pdf
+│   ├── Perceived\ norms\ and\ social\ values\ to\ capture\ school\ culture\ in\ elementary\ and\ middle\ school.pdf
+│   └── The\ impact\ of\ brief\ teacher\ training\ on\ classroom\ management\ and\ child\ behavior\ in\ at-risk\ preschool\ settings:\ Mediators\ and\ treatment\ utility.pdf
+│   ├── Editorial\ Board.pdf
+│   ├── Emerging\ adults'\ recollections\ of\ peer\ victimization\ experiences\ during\ middle\ school.pdf
+│   ├── Profiles\ of\ reactivity\ in\ cocaine-exposed\ children.pdf
+│   ├── The\ implications\ of\ early\ attentional\ regulation\ for\ school\ success\ among\ low-income\ children.pdf
+│   ├── The\ morality\ of\ social\ identity.pdf
+│   └── The\ relationships\ among\ attachment\ style,\ personality\ traits,\ interpersonal\ competency,\ and\ Facebook\ use.pdf
+│   ├── <?xml\ version='1.0'\ encoding='utf-8'?>.pdf
+│   ├── Children's\ attributions\ for\ peer\ victimization:\ A\ social\ comparison\ approach.pdf
+│   ├── Classroom\ context,\ teacher\ expectations,\ and\ cognitive\ level:\ Predicting\ children's\ math\ ability\ judgments.pdf
+│   ├── Editorial\ Board.pdf
+│   ├── Forgiveness\ intervention\ for\ female\ South\ Korean\ adolescent\ aggressive\ victims.pdf
+│   ├── Parent\ predictors\ of\ changes\ in\ child\ behavior\ problems.pdf
+│   ├── Shyness\ as\ a\ risk\ factor\ for\ second\ language\ acquisition\ of\ immigrant\ preschoolers.pdf
+│   ├── Understanding\ how\ children's\ engagement\ and\ teachers'\ interactions\ combine\ to\ predict\ school\ readiness.pdf
+│   └── Young\ children's\ interpersonal\ trust\ consistency\ as\ a\ predictor\ of\ future\ school\ adjustment.pdf
+│   ├── Linking\ preschool\ language\ and\ sustained\ attention\ with\ adolescent\ achievement\ through\ classroom\ self-reliance.pdf
+│   ├── Nested\ societal\ contexts\ and\ the\ application\ of\ developmental\ research.pdf
+│   └── Parent-to-child\ physical\ aggression,\ neighborhood\ cohesion,\ and\ development\ of\ children's\ internalizing\ and\ externalizing.pdf
+│   ├── Children's\ perceptions\ of\ the\ relationship\ with\ the\ teacher:\ Associations\ with\ appraisals\ and\ internalizing\ problems\ in\ middle\ childhood.pdf
+│   ├── Fathers'\ language\ input\ during\ shared\ book\ activities:\ Links\ to\ children's\ kindergarten\ achievement.pdf
+│   ├── Identity\ in\ young\ adulthood:\ Links\ with\ mental\ health\ and\ risky\ behavior.pdf
+│   ├── Paul\ Bloom\ on\ the\ road.pdf
+│   ├── Student\ class\ standing,\ Facebook\ use,\ and\ academic\ performance.pdf
+│   ├── The\ influence\ of\ television\ coviewing\ on\ parent\ language\ directed\ at\ toddlers.pdf
+│   └── Young\ children's\ screen\ time:\ The\ complex\ role\ of\ parent\ and\ child\ factors.pdf
+│   ├── Addressing\ school\ bullying:\ Insights\ from\ theories\ of\ group\ processes.pdf
+│   ├── Articulating\ the\ theory\ of\ bullying\ intervention\ programs:\ Views\ from\ social\ psychology,\ social\ work,\ and\ organizational\ science.pdf
+│   ├── Declines\ in\ efficacy\ of\ anti-bullying\ programs\ among\ older\ adolescents:\ Theory\ and\ a\ three-level\ meta-analysis.pdf
+│   ├── Preface.pdf
+│   └── Revenge\ is\ seductive,\ if\ not\ sweet:\ Why\ friends\ .pdf
+│   ├── Associations\ of\ anger\ and\ fear\ to\ later\ self-regulation\ and\ problem\ behavior\ symptoms.pdf
+│   ├── Cross-domain\ influences\ on\ youth\ risky\ driving\ behaviors:\ A\ developmental\ cascade\ analysis.pdf
+│   ├── Daily\ cybervictimization\ among\ Latino\ adolescents:\ Links\ with\ emotional,\ physical\ and\ school\ adjustment.pdf
+│   ├── Good\ science?\ We\ should\ all\ be\ asking.pdf
+│   ├── Mothers'\ and\ fathers'\ sensitivity\ and\ children's\ cognitive\ development\ in\ low-income,\ rural\ families.pdf
+│   ├── Socialization\ processes\ and\ pathways\ to\ healthy\ financial\ development\ for\ emerging\ young\ adults.pdf
+│   └── The\ configuration\ protective\ model:\ Factors\ associated\ with\ adolescent\ behavioral\ and\ emotional\ problems.pdf
+│   ├── Adolescents'\ comprehension\ of\ televised\ sexual\ innuendos.pdf
+│   ├── Applied\ developmental\ psychology\ symposium\ articles.pdf
+│   ├── Applied\ developmental\ psychology.pdf
+│   ├── Applied\ developmental\ psychology:\ Problems\ and\ prospects\ for\ an\ emerging\ discipline.pdf
+│   ├── Author\ index\ to\ volume\ 4.pdf
+│   ├── Children's\ perceptions\ of\ major\ positive\ and\ negative\ events\ and\ factors\ in\ single-parent\ families.pdf
+│   ├── Contents\ of\ volume\ 4.pdf
+│   ├── Guest\ editors\ for\ volume\ 4.pdf
+│   ├── Scrutinizing\ application:\ An\ agenda\ for\ applied\ developmental\ psychology.pdf
+│   ├── Sociolinguistic\ contexts\ of\ the\ preschool.pdf
+│   └── Some\ foundations\ and\ directions\ for\ applied\ developmental\ psychology.pdf
+│   ├── Alignment\ of\ perceived\ needs\ across\ levels\ of\ a\ community.pdf
+│   ├── Change\ in\ protective\ factors\ across\ adolescent\ development.pdf
+│   ├── Comprehensive\ community\ initiatives\ in\ education\ reform:\ The\ case\ of\ Say\ Yes\ to\ Education.pdf
+│   ├── Comprehensive\ community\ initiatives:\ The\ road\ ahead\ for\ research\ and\ practice.pdf
+│   ├── Homegrown\ partnerships\ that\ make\ a\ difference\ for\ youth.pdf
+│   ├── Relationship\ provisions,\ self-efficacy\ and\ youth\ well-being\ in\ military\ families.pdf
+│   └── Supportive\ developmental\ systems\ for\ children\ and\ youth:\ A\ theoretical\ framework\ for\ comprehensive\ community\ initiatives.pdf
+│   ├── Author\ index\ to\ volume\ 5.pdf
+│   ├── Contents\ of\ volume\ 5.pdf
+│   ├── Effects\ of\ early\ hospital-based\ intervention\ on\ mothers\ and\ their\ preterm\ infants.pdf
+│   ├── Guest\ editors\ for\ volume\ 5.pdf
+│   ├── Influence\ of\ a\ model's\ verbal\ descriptions\ of\ toy\ interactions\ on\ kindergarten\ children's\ associative\ learning.pdf
+│   ├── Interpersonal\ problem\ solving\ in\ preschool\ children:\ A\ comparison\ of\ assessment\ procedures\ using\ two-dimensional\ versus\ three-dimensional\ stimuli.pdf
+│   ├── Peer\ education:\ The\ untapped\ potential.pdf
+│   ├── Potentials\ of\ Childhood.\ (Vols.\ I\ and\ II):\ .pdf
+│   ├── Psychological\ studies\ of\ children\ who\ have\ cancer.pdf
+│   └── Verbal\ and\ nonverbal\ maternal\ controls\ in\ hearing\ mother-deaf\ child\ interaction.pdf
+│   ├── An\ Examination\ of\ the\ Association\ between\ Social\ relationships\ and\ depression\ in\ early\ adolescence.pdf
+│   ├── Author\ index\ to\ volume\ 6.pdf
+│   ├── Characteristics\ of\ social\ cognition\ in\ children\ with\ different\ symptom\ patterns.pdf
+│   ├── Contents\ of\ volume\ 6.pdf
+│   ├── Depression\ and\ achievement\ in\ subgroups\ of\ children\ with\ learning\ disabilities.pdf
+│   ├── Development\ and\ training\ of\ role-taking\ abilities\ with\ emotionally\ disturbed\ preschoolers:\ A\ pilot\ study.pdf
+│   ├── Guest\ editors\ for\ volume\ 6.pdf
+│   ├── Individual\ differences\ in\ preschool\ children's\ knowledge\ of\ superordinate\ categories.pdf
+│   ├── Locus\ of\ control\ and\ persistence\ in\ structured\ and\ unstructured\ preschool\ classrooms.pdf
+│   └── The\ patterning\ of\ agonistic\ behaviors\ among\ friends\ and\ acquaintances\ in\ programs\ for\ emotionally\ disturbed\ children.pdf
+│   ├── Author\ index\ to\ volume\ 7.pdf
+│   ├── Children\ and\ cigarettes:\ The\ effect\ of\ a\ model\ who\ quits.pdf
+│   ├── Children's\ attitudes\ toward\ physically\ handicapped\ peers.pdf
+│   ├── Contents\ of\ volume\ 7.pdf
+│   ├── Custodial\ mothers'\ perceptions\ of\ visitation\ and\ payment\ of\ child\ support\ by\ noncustodial\ fathers\ in\ families\ with\ low\ and\ high\ levels\ of\ preseparation\ interparent\ conflict.pdf
+│   ├── Developmental\ change\ in\ identifying\ main\ ideas\ in\ picture\ stories.pdf
+│   ├── Effects\ of\ classroom\ age\ composition\ on\ the\ play\ and\ social\ behaviors\ of\ preschool\ children.pdf
+│   ├── Guest\ editors\ for\ volume\ 7.pdf
+│   ├── New\ Zealand\ Maori\ and\ European\ mothers\ and\ their\ 3-year-old\ children:\ Interactive\ behaviors\ in\ pre-school\ settings.pdf
+│   ├── Social\ reciprocity\ in\ handicapped\ and\ nonhandicapped\ children\ in\ a\ dyadic\ play\ situation.pdf
+│   ├── The\ effects\ of\ three\ different\ television\ programs\ on\ young\ children's\ peer\ interactions\ and\ toy\ play.pdf
+│   ├── Understanding\ of\ friendship\ and\ social\ rules\ in\ deaf\ and\ hearing\ adolescents.pdf
+│   └── Variability\ in\ children's\ level\ of\ reasoning\ about\ friendship.pdf
+│   ├── Author\ index\ to\ volume\ 8.pdf
+│   ├── Children's\ social\ problem-solving\ skills,\ behavioral\ adjustment,\ and\ interventions:\ A\ meta-analysis\ evaluating\ theory\ and\ practice.pdf
+│   ├── Contents\ of\ volume\ 8.pdf
+│   ├── Cultural\ variations\ in\ socialization\ for\ school\ achievement:\ Contrasts\ between\ Japan\ and\ the\ United\ States.pdf
+│   ├── Early\ detection\ of\ handicapping\ conditions\ in\ infancy\ and\ early\ childhood:\ Toward\ a\ multivariate\ model.pdf
+│   ├── Foreseeability\ and\ self-interest\ as\ moral\ judgment\ factors\ with\ normal\ and\ acting-out\ adolescent\ boys.pdf
+│   ├── Guest\ editors\ for\ volume\ 8.pdf
+│   ├── Interpersonal\ relations\ in\ four-year\ dyads\ from\ constructivist\ and\ montessori\ programs.pdf
+│   ├── Race\ versus\ social\ class:\ Social\ orientation\ and\ cognitive\ play\ in\ black\ and\ white\ middle\ SES\ preschool\ children.pdf
+│   ├── Rules\ versus\ cognitive\ structure\ as\ bases\ for\ children's\ performances\ on\ probability\ problems.pdf
+│   ├── Social\ interaction\ in\ the\ peer\ group:\ Relationship\ to\ perceptions\ of\ parenting\ and\ to\ children's\ interpersonal\ awareness\ and\ problem-solving\ ability.pdf
+│   ├── The\ effects\ of\ video\ game\ play\ on\ young\ children's\ aggression,\ fantasy,\ and\ prosocial\ behavior.pdf
+│   ├── The\ selective\ use\ of\ sound\ effects\ and\ visual\ inserts\ for\ children's\ television\ story\ comprehension.pdf
+│   └── Toddlers'\ responses\ to\ the\ distress\ of\ their\ peers.pdf
+│   ├── A\ critical\ review\ of\ pediatric\ preoperative\ preparation\ procedures:\ Processes,\ outcomes,\ and\ future\ directions.pdf
+│   ├── Author\ index\ to\ volume\ 9.pdf
+│   ├── Concurrent\ and\ longitudinal\ correlates\ of\ preschool\ peer\ sociometrics:\ Comparing\ rating\ scale\ and\ nomination\ measures.pdf
+│   ├── Contents\ of\ volume\ 9.pdf
+│   ├── Gender\ differences\ in\ visual\ attention\ to\ television\ form\ and\ content.pdf
+│   ├── Guest\ editors\ for\ volume\ 9.pdf
+│   ├── Mothers'\ &amp;\ fathers'\ explanations\ of\ observed\ interactions\ with\ their\ children.pdf
+│   ├── Motivational\ factors,\ school\ atmosphere,\ and\ SES:\ Determinants\ of\ children's\ probability\ task\ performance.pdf
+│   ├── The\ development\ of\ children's\ knowledge\ of\ alcohol\ and\ the\ role\ of\ drinking.pdf
+│   ├── The\ impact\ of\ socioeconomic\ status\ on\ teenage\ mothers\ and\ children\ who\ received\ early\ intervention.pdf
+│   └── The\ raising\ of\ intelligence:\ A\ selected\ history\ of\ attempts\ to\ raise\ retarded\ intelligence:\ .pdf
